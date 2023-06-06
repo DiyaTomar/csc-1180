@@ -1,0 +1,45 @@
+#File copies
+lab6copy.cpp
+lab7copy.cpp
+lab8copy.cpp
+lab8copy2.cpp
+lab8copy3.cpp
+lab8copy4.cpp
+lab8original.cpp
+TimeTypeOld.h
+Card2.h
+prog7copy.cpp
+Deck2.h
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
